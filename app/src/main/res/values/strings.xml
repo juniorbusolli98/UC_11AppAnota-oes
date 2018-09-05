@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notas Autoadesivas</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string name="cheTitulo">Titulo: </string>
+    <string name="txtAnotacao">Anotacao: </string>
+    <string name="cheNota">Notas: </string>
+    <string name="ltNotas">ListaDeNotas: </string>
+</resources>
+
